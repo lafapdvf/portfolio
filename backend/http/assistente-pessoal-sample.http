@@ -1,0 +1,7 @@
+POST https://xxx.xxxxx.xxx.xx/webhook/assistente-pessoal
+Content-Type: application/json
+
+{
+  "chatId": "12345678",
+  "mensagem": "Você trabalha com React Native?"
+}
