@@ -1,0 +1,20 @@
+{
+	"name": "portfolio",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"dev": "npx concurrently \"cd backend && npm run start:dev\" \"cd frontend && npm run dev\""
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/lafapdvf/portfolio.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/lafapdvf/portfolio/issues"
+	},
+	"homepage": "https://github.com/lafapdvf/portfolio#readme",
+	"description": ""
+}
